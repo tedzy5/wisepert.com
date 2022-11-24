@@ -1,2 +1,2 @@
-# wisepers.com
+# wisepert.com
 Wise Pert Application Form

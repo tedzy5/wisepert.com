@@ -13,7 +13,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
 
-    <!-- Style Wisepert -->
+    <!-- Style -->
     <link rel="stylesheet" href="css/style.css">
 
     <title>Wise Expert - Wisepert</title>
